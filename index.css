@@ -1,0 +1,28 @@
+body{
+	margin: 0%;
+	color: #fff;
+	margin-left: 15%;
+}
+table{
+	margin-left: 20%;
+	padding: 0%;
+	
+}
+tr{
+	background-color: #000d33;
+}
+#pass{
+	
+	text-align: center;
+
+}
+.button{
+	margin-left: 15%;
+}
+p{
+	font-size: 1.5em;
+	
+}
+textarea, input{
+	background-color: #cccccc;
+}
